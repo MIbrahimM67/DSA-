@@ -1,4 +1,0 @@
-﻿  Main.cpp
-D:\programming 2023\DSA ASSIGNMENTS\Computer Store\Main.cpp(355,7): warning C4101: 'TempS': unreferenced local variable
-D:\programming 2023\DSA ASSIGNMENTS\Computer Store\Main.cpp(524,8): warning C4101: 'temp': unreferenced local variable
-  Computer Store.vcxproj -> D:\programming 2023\DSA ASSIGNMENTS\Computer Store\x64\Debug\Computer Store.exe
